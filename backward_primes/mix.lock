@@ -1,0 +1,3 @@
+%{
+  "primes": {:git, "https://github.com/abryrath/ex-primes.git", "58a04eadf46487dae72755ff84d5def640efc49c", []},
+}
